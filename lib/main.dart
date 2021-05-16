@@ -84,42 +84,6 @@ class _MyHomePageState extends State<MyHomePage> {
             ],
           ),
         ),
-        backgroundColor: Color.fromRGBO(21, 21, 21, 1)
-
-        // Column(
-        //   mainAxisAlignment: MainAxisAlignment.center,
-        //   children: [
-        //     Container(
-        //       height: 80,
-        //       width: 80,
-        //       color: Colors.purple,
-        //     ),
-        //     Row(
-        //       mainAxisAlignment: MainAxisAlignment.center,
-        //       children: [
-        //         Container(
-        //           height: 80,
-        //           width: 80,
-        //           color: Colors.green,
-        //         ),
-        //         Container(
-        //           height: 80,
-        //           width: 80,
-        //           color: Colors.yellow,
-        //         ),
-        //         Container(
-        //           height: 80,
-        //           width: 80,
-        //           color: Colors.orange,
-        //         ),
-        //       ],
-        //     ),
-        //     Container(
-        //       height: 80,
-        //       width: 80,
-        //       color: Colors.blue,
-        //     )
-        //   ],
-        );
+        backgroundColor: Color.fromRGBO(21, 21, 21, 1));
   }
 }
